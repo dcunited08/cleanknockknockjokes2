@@ -1,0 +1,12 @@
+{
+  "name": "cleanknockknockjokes2",
+  "version": "0.0.1",
+  "git": "https://github.com/dcunited08/cleanknockknockjokes2.git",
+  "description": "Clean knock knock jokes bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
